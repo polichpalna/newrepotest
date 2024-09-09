@@ -1,0 +1,23 @@
+D:\Практика\team 3\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Практика\team 3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Практика\team 3\UnitTestProject1\bin\Debug\team 3.exe
+D:\Практика\team 3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Практика\team 3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Практика\team 3\UnitTestProject1\bin\Debug\team 3.pdb
+D:\Практика\team 3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\Практика\team 3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Практика\team 3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Практика\team 3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Практика\team 3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

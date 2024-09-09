@@ -1,0 +1,11 @@
+D:\Практика\team 3\team 3\bin\Debug\team 3.exe.config
+D:\Практика\team 3\team 3\bin\Debug\team 3.exe
+D:\Практика\team 3\team 3\bin\Debug\team 3.pdb
+D:\Практика\team 3\team 3\obj\Debug\team 3.csproj.AssemblyReference.cache
+D:\Практика\team 3\team 3\obj\Debug\team 3.csproj.SuggestedBindingRedirects.cache
+D:\Практика\team 3\team 3\obj\Debug\team_3.Form1.resources
+D:\Практика\team 3\team 3\obj\Debug\team_3.Properties.Resources.resources
+D:\Практика\team 3\team 3\obj\Debug\team 3.csproj.GenerateResource.cache
+D:\Практика\team 3\team 3\obj\Debug\team 3.csproj.CoreCompileInputs.cache
+D:\Практика\team 3\team 3\obj\Debug\team 3.exe
+D:\Практика\team 3\team 3\obj\Debug\team 3.pdb

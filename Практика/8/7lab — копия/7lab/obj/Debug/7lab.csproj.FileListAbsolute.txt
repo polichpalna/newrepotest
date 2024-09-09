@@ -1,0 +1,43 @@
+H:\УП\7 тема\7lab\7lab\obj\Debug\7lab.csprojAssemblyReference.cache
+H:\УП\7 тема\7lab\7lab\obj\Debug\_7lab.Form1.resources
+H:\УП\7 тема\7lab\7lab\obj\Debug\_7lab.Properties.Resources.resources
+H:\УП\7 тема\7lab\7lab\obj\Debug\7lab.csproj.GenerateResource.cache
+H:\УП\7 тема\7lab\7lab\obj\Debug\7lab.csproj.CoreCompileInputs.cache
+H:\УП\7 тема\7lab\7lab\bin\Debug\7lab.exe.config
+H:\УП\7 тема\7lab\7lab\bin\Debug\7lab.exe
+H:\УП\7 тема\7lab\7lab\bin\Debug\7lab.pdb
+H:\УП\7 тема\7lab\7lab\obj\Debug\7lab.exe
+H:\УП\7 тема\7lab\7lab\obj\Debug\7lab.pdb
+C:\Users\Admin\Downloads\7lab\7lab\7lab\bin\Debug\7lab.exe.config
+C:\Users\Admin\Downloads\7lab\7lab\7lab\bin\Debug\7lab.exe
+C:\Users\Admin\Downloads\7lab\7lab\7lab\bin\Debug\7lab.pdb
+C:\Users\Admin\Downloads\7lab\7lab\7lab\obj\Debug\7lab.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\7lab\7lab\7lab\obj\Debug\_7lab.Form1.resources
+C:\Users\Admin\Downloads\7lab\7lab\7lab\obj\Debug\_7lab.Properties.Resources.resources
+C:\Users\Admin\Downloads\7lab\7lab\7lab\obj\Debug\7lab.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\7lab\7lab\7lab\obj\Debug\7lab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\7lab\7lab\7lab\obj\Debug\7lab.exe
+C:\Users\Admin\Downloads\7lab\7lab\7lab\obj\Debug\7lab.pdb
+C:\Users\Admin\Downloads\7lab\7lab\7lab\obj\Debug\_7lab.Form2.resources
+E:\7lab — копия\7lab\bin\Debug\7lab.exe.config
+E:\7lab — копия\7lab\bin\Debug\7lab.exe
+E:\7lab — копия\7lab\bin\Debug\7lab.pdb
+E:\7lab — копия\7lab\obj\Debug\7lab.csproj.AssemblyReference.cache
+E:\7lab — копия\7lab\obj\Debug\_7lab.Form1.resources
+E:\7lab — копия\7lab\obj\Debug\_7lab.Form2.resources
+E:\7lab — копия\7lab\obj\Debug\_7lab.Properties.Resources.resources
+E:\7lab — копия\7lab\obj\Debug\7lab.csproj.GenerateResource.cache
+E:\7lab — копия\7lab\obj\Debug\7lab.csproj.CoreCompileInputs.cache
+E:\7lab — копия\7lab\obj\Debug\7lab.exe
+E:\7lab — копия\7lab\obj\Debug\7lab.pdb
+D:\Практика\8\7lab — копия\7lab\bin\Debug\7lab.exe.config
+D:\Практика\8\7lab — копия\7lab\bin\Debug\7lab.exe
+D:\Практика\8\7lab — копия\7lab\bin\Debug\7lab.pdb
+D:\Практика\8\7lab — копия\7lab\obj\Debug\7lab.csproj.AssemblyReference.cache
+D:\Практика\8\7lab — копия\7lab\obj\Debug\_7lab.Form1.resources
+D:\Практика\8\7lab — копия\7lab\obj\Debug\_7lab.Form2.resources
+D:\Практика\8\7lab — копия\7lab\obj\Debug\_7lab.Properties.Resources.resources
+D:\Практика\8\7lab — копия\7lab\obj\Debug\7lab.csproj.GenerateResource.cache
+D:\Практика\8\7lab — копия\7lab\obj\Debug\7lab.csproj.CoreCompileInputs.cache
+D:\Практика\8\7lab — копия\7lab\obj\Debug\7lab.exe
+D:\Практика\8\7lab — копия\7lab\obj\Debug\7lab.pdb

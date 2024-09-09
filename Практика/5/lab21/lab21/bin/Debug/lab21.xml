@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lab21</name>
+    </assembly>
+    <members>
+        <member name="M:lab21.Form1.#ctor">
+            <summary>
+            Конструктор формы
+            </summary>
+        </member>
+        <member name="M:lab21.Form1.ConvertToArray1">
+            <summary>
+            Преобразование в массив данных с datagridview создание экземпляров класса с методами
+            </summary>
+        </member>
+        <member name="M:lab21.Form1.dataGridView1_DoubleClick(System.Object,System.EventArgs)">
+            <summary>
+            Метод двойного нажатия на datagridview, который создает ячейки и столбцы, загружает данные и т.д., проверяет значения
+            </summary>
+            <param name="sender">указатель на button1</param>
+            <param name="e">дополнительный аргумент</param>
+        </member>
+        <member name="M:lab21.Form1.radioButton2_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            Метод выбора кнопки "Рандомное заполнение", очищает datagridview
+            </summary>
+            <param name="sender">указатель на radioButton2</param>
+            <param name="e">дополнительный аргумент</param>
+        </member>
+        <member name="M:lab21.Form1.radioButton1_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            Метод выбора кнопки "Ручное заполнение", очищает datagridview
+            </summary>
+            <param name="sender">указатель на radioButton1</param>
+            <param name="e">дополнительный аргумент</param>
+        </member>
+        <member name="M:lab21.Form1.dataGridView1_CellValidating(System.Object,System.Windows.Forms.DataGridViewCellValidatingEventArgs)">
+            <summary>
+            Метод проверки в datagridview
+            </summary>
+            <param name="sender">указатель на dataGridView1</param>
+            <param name="e">дополнительный аргумент</param>
+        </member>
+        <member name="M:lab21.Form1.dataGridView1_EditingControlShowing(System.Object,System.Windows.Forms.DataGridViewEditingControlShowingEventArgs)">
+            <summary>
+            Метод проверки в datagridview
+            </summary>
+            <param name="sender">указатель на dataGridView1</param>
+            <param name="e">дополнительный аргумент</param>
+        </member>
+        <member name="M:lab21.Form1.dataGridView1_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            Метод контроля нажатия клавиш в datagridview
+            </summary>
+            <param name="sender">указатель на dataGridView1</param>
+            <param name="e">дополнительный аргумент</param>
+        </member>
+        <member name="M:lab21.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            Метод нажатия на кнопку "Найти индексы и поменять местами элементы кратные трем"
+            </summary>
+            <param name="sender">указатель на button1</param>
+            <param name="e">дополнительный аргумент</param>
+        </member>
+        <member name="M:lab21.Form1.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            Метод нажатия на кнопку "Суммма элементов между первым и последним элементом кратным трем"
+            </summary>
+            <param name="sender">указатель на button2</param>
+            <param name="e">дополнительный аргумент</param>
+        </member>
+        <member name="F:lab21.Form1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:lab21.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:lab21.Form1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="M:lab21.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:lab21.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:lab21.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:lab21.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>
